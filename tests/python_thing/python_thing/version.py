@@ -1,0 +1,6 @@
+__title__ = "python_thing"
+__description__ = "A library to test pip issue"
+__version__ = "0.0.0"
+__author__ = "Neil Stoddard"
+__author_email__ = "neil.stoddard@gmail.com"
+__url__ = "https://ni.visualstudio.com/DevCentral/_git/Tools"
